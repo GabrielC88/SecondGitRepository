@@ -338,6 +338,11 @@ namespace Game1
 
             // Lab09 Demonstration with branching and merging Part III
 
+
+
+            // 10562472_Gabriel_Chew merging with friends 
+            // 10562472_Gabriel_Chew merging with friends 2nd commit
+
             base.Draw(gameTime);
         }
     }

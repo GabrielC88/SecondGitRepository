@@ -334,8 +334,7 @@ namespace Game1
 
             }
             // TODO: Add your drawing code here
-            //Testing
-            // Testing 2
+            // Lab09 Demonstration with branching and merging
 
             base.Draw(gameTime);
         }

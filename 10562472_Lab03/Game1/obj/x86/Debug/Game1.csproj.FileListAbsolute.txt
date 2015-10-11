@@ -1,0 +1,128 @@
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\Game1.exe
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\Game1.pdb
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.dll
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.xml
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\obj\x86\Debug\Game1.exe
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\obj\x86\Debug\Game1.pdb
+c:\users\gabriel\documents\visual studio 2015\Projects\Game1\Game1\bin\Windows\Debug\Content\Textures\Crates.png
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\Content\Textures\Crates.png
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\Game1.exe
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\Game1.pdb
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 3\Lab3 Sample from class 100815\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\Content\Textures\Crates.png
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\Game1.exe
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\Game1.pdb
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Gab\Desktop\Lab3 Sample from class 100815\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\Content\Textures\Crates.png
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\Game1.exe
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\Game1.pdb
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\Content\Textures\Crates.png
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\Game1.exe
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\Game1.pdb
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml

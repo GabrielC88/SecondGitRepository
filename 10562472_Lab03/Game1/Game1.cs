@@ -319,8 +319,8 @@ namespace Game1
             effect.TextureEnabled = true;
 
             effect.EnableDefaultLighting();
-            effect.LightingEnabled = true; // enabling lighting effect - Lab09 demostration
-            effect.Alpha = 1;
+            effect.LightingEnabled = false; // enabling lighting effect - Lab09 demostration
+            effect.Alpha = 0;
             // operation on pixel and rendering images
             foreach (EffectPass pass in effect.CurrentTechnique.Passes)
             {
@@ -334,7 +334,8 @@ namespace Game1
 
             }
             // TODO: Add your drawing code here
-
+            //Testing
+            // Testing 2
 
             base.Draw(gameTime);
         }

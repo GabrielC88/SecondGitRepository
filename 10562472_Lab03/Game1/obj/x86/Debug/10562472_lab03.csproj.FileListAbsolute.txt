@@ -24,3 +24,5 @@ C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\1056247
 C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\obj\x86\Debug\Game1.exe
 C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\obj\x86\Debug\Game1.pdb
 C:\Users\Gab\Google Drive\Spring 2015\Game Programming\Week 2\Submission\10562472_Lab03\Game1\obj\x86\Debug\10562472_lab03.csprojResolveAssemblyReference.cache
+C:\Users\Gab\Documents\GitHub\SecondGitRepository\10562472_Lab03\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Gab\Documents\GitHub\SecondGitRepository\10562472_Lab03\Game1\obj\x86\Debug\Game1.pdb

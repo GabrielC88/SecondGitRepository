@@ -319,7 +319,8 @@ namespace Game1
             effect.TextureEnabled = true;
 
             effect.EnableDefaultLighting();
-            effect.LightingEnabled = true; // enabling lighting effect
+            effect.LightingEnabled = false; // enabling lighting effect - Lab09 demostrationi
+            effect.Alpha = 0;
             // operation on pixel and rendering images
             foreach (EffectPass pass in effect.CurrentTechnique.Passes)
             {
